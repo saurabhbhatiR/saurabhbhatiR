@@ -25,7 +25,12 @@ Email Me 👉 ✉️ **saurabhbhatibhonra@gmail.com** For Collaboration/Project 
 ![](https://github-profile-trophy.vercel.app/?username=saurabhbhatiR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=saurabhbhatiR&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=saurabhbhatiR&icon=0&color=0)](https://visitcount.itsvg.in)     
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saurabhbhati) 
